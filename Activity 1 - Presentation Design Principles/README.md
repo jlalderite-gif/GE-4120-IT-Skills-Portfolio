@@ -23,8 +23,9 @@ The design promotes a free coffee giveaway with the details:
 - **Consistency:** Used the same brown-and-cream color scheme and coffee theme throughout.
 - **Emphasis:** Used the large title and coffee illustrations to attract attention.
 
-## Poster
-![Free Coffee Poster](./ACTIVITY%201%20-%20Free%20Coffee%20Poster.png)
+## Final Output
+
+![Free Coffee Poster](./ACTIVITY%201-%20GE%204120_ALDERITE.png)
 
 ## Reflection
 
