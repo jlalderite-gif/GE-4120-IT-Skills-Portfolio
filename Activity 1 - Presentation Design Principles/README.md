@@ -25,7 +25,7 @@ The design promotes a free coffee giveaway with the details:
 
 ## Final Output
 
-![Free Coffee Poster](./ACTIVITY%201-%20GE%204120_ALDERITE.png)
+![Free Coffee Poster](./ACTIVITY%201-%20GE%204120_ALDERITE%.png)
 
 ## Reflection
 
