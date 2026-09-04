@@ -23,6 +23,9 @@ The design promotes a free coffee giveaway with the details:
 - **Consistency:** Used the same brown-and-cream color scheme and coffee theme throughout.
 - **Emphasis:** Used the large title and coffee illustrations to attract attention.
 
+## Poster
+![Free Coffee Poster](./ACTIVITY%201%20-%20Free%20Coffee%20Poster.png)
+
 ## Reflection
 
 This activity helped me understand how presentation and visual design principles can be used to communicate information effectively. I learned that the arrangement of elements, choice of colors, typography, and use of visual emphasis can greatly affect how quickly and clearly an audience understands a message.
